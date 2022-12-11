@@ -67,8 +67,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '970959788928',
     projectId: 'rekammedis-b4f1a',
     storageBucket: 'rekammedis-b4f1a.appspot.com',
-    androidClientId: '970959788928-6k2f77788fb5rve02uneek0fki523mbb.apps.googleusercontent.com',
-    iosClientId: '970959788928-tasf4et3sj57ljmvkpso6sinqnk9d80m.apps.googleusercontent.com',
+    androidClientId:
+        '970959788928-6k2f77788fb5rve02uneek0fki523mbb.apps.googleusercontent.com',
+    iosClientId:
+        '970959788928-tasf4et3sj57ljmvkpso6sinqnk9d80m.apps.googleusercontent.com',
     iosBundleId: 'com.example.dokterrsgm',
   );
 
@@ -78,8 +80,10 @@ class DefaultFirebaseOptions {
     messagingSenderId: '970959788928',
     projectId: 'rekammedis-b4f1a',
     storageBucket: 'rekammedis-b4f1a.appspot.com',
-    androidClientId: '970959788928-6k2f77788fb5rve02uneek0fki523mbb.apps.googleusercontent.com',
-    iosClientId: '970959788928-tasf4et3sj57ljmvkpso6sinqnk9d80m.apps.googleusercontent.com',
+    androidClientId:
+        '970959788928-6k2f77788fb5rve02uneek0fki523mbb.apps.googleusercontent.com',
+    iosClientId:
+        '970959788928-tasf4et3sj57ljmvkpso6sinqnk9d80m.apps.googleusercontent.com',
     iosBundleId: 'com.example.dokterrsgm',
   );
 }
